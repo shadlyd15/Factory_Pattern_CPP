@@ -1,0 +1,1 @@
+This example is adapted from <a href="https://www.codeproject.com/Articles/363338/Factory-Pattern-in-Cplusplus?fid=1703798&df=90&mpp=50&prof=True&sort=Position&view=Normal&spc=Tight&fr=51" target="_blank"> this </a> beautiful tutorial.
